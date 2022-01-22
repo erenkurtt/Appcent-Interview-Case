@@ -1,0 +1,64 @@
+.mainImg {
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.imgSegment{
+    padding: 3%;
+}
+
+.infoSegment{
+    padding: 3%;
+}
+
+.infoSegment h1{
+    color: blanchedalmond;
+}
+
+
+.mainRow{
+    background-color: rgba(0, 0, 0, 0.89);
+    
+}
+
+
+span{
+    
+    margin-right: 20px;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+
+.tagLine{
+    margin: 1% 0;
+    color: rgb(110, 114, 116);
+    font-size: 1.4em;
+  
+}
+
+.overView{
+    color: blanchedalmond;
+    font-size: 1.2em;
+}
+
+.createdBy{
+    color: blanchedalmond;
+    font-size: 1.2em;
+    margin-bottom: 0;
+}
+
+.detailedRate{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: rgb(22, 21, 21);
+    border-radius: 100%;
+}
+
+.detailedRate span{
+    
+    font-size: 1.4em !important;
+    font-weight: bolder;
+    color: blanchedalmond !important;
+}

@@ -1,0 +1,18 @@
+.lastSide{
+    height: 20vh;
+    width: 100%;
+    margin-top:3% ;
+    background: rgb(37, 36, 37);
+    display: table;
+    text-align: center;
+    clear: both;
+   
+   
+}
+
+h2{
+    color: blanchedalmond;
+    display: table-cell;
+    vertical-align: middle;
+    
+}
